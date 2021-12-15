@@ -12,3 +12,17 @@
 27565 oxford 10.0
 85054 Phoenix  13.0
 90080 LosAngeles 5.0
+10002 Newyork 19.0
+99501 Alaska 22.0
+20019 Washington 15.0
+30381 Atlanta  20.0
+27565 oxford 10.0
+85054 Phoenix  13.0
+90080 LosAngeles 5.0
+10002 Newyork 19.0
+99501 Alaska 22.0
+20019 Washington 15.0
+30381 Atlanta  20.0
+27565 oxford 10.0
+85054 Phoenix  13.0
+900 LosAngeles 5.0
